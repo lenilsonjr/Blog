@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="<?php echo theme_url('/css/reset.css'); ?>">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/style.css'); ?>">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/small.css'); ?>" media="(max-width: 400px)">
+    <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="<?php echo rss_url(); ?>">
 		<link rel="shortcut icon" href="<?php echo theme_url('img/favicon.png'); ?>">
@@ -27,7 +28,7 @@
 	    <meta property="og:title" content="<?php echo page_title(); ?>">
 	    <meta property="og:type" content="website">
 	    <meta property="og:url" content="<?php echo e(current_url()); ?>">
-	    <meta property="og:image" content="<?php echo theme_url('img/og_image.gif'); ?>">
+	    <meta property="og:image" content="<?php echo theme_url('img/og_image.jpg'); ?>">
 	    <meta property="og:site_name" content="<?php echo site_name(); ?>">
 	    <meta property="og:description" content="<?php echo page_description(); ?>">
 
@@ -44,13 +45,13 @@
 			<div class="slidey" id="tray">
 				<div class="wrap">
 					<form id="search" action="<?php echo search_url(); ?>" method="post">
-						<label for="term">Search my blog:</label>
+						<label for="term"><i class="em em-mag_right" style="font-size: 12px;"></i> Search my blog:</label>
 						<input type="search" id="term" name="term" placeholder="To search, type and hit enter&hellip;" value="<?php echo search_term(); ?>">
 						<input type="hidden" id="whatSearch" name="whatSearch" value="all" />
 					</form>
 
 					<aside>
-						<b>Categories</b>
+						<b><i class="em em-file_folder" style="font-size: 12px;"></i> Categories</b>
 						<ul>
 						<?php while (categories()):
                                 if (category_count() > 0) {
@@ -72,10 +73,16 @@
 			</div>
 
 			<header id="top">
-				<a id="logo" href="<?php echo base_url(); ?>"><?php echo site_name(); ?></a>
+				<a id="logo" href="<?php echo base_url(); ?>"><i class="em em-rocket"></i> <?php echo site_name(); ?></a>
 
 				<nav id="main" role="navigation">
 					<ul>
+            <li>
+							<a href="https://lenilson.codes" title="main site" target="_blank">
+								main site
+							</a>
+						</li>
+
 						<?php if (has_menu_items()):
                             while (menu_items()): ?>
 						<li <?php echo(menu_active() ? 'class="active"' : ''); ?>>
