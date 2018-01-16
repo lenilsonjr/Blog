@@ -4,6 +4,16 @@
 		<meta charset="utf-8">
 		<title><?php echo page_title('Page can’t be found'); ?> - <?php echo site_name(); ?></title>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110587624-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-110587624-2');
+    </script>
+
 		<meta name="description" content="<?php echo site_description(); ?>">
 
 		<link rel="stylesheet" href="<?php echo theme_url('/css/reset.css'); ?>">
