@@ -1,35 +1,26 @@
-<?php
+<?php // @codingStandardsIgnoreFile
 
-/*
-               /   \
-              |  o  |
-               \   /
-        ________) (________
-       |                   |
-       '------.     .------'
-               |   |
-               |   |
-               |   |
-               |   |
-    /\         |   |         /\
-   /_ \        /   \        / _\
-     \ '.    .'     '.    .' /
-      \  '--'         '--'  /
-       '.                 .'
-         '._           _.'
-            `'-.   .-'`
-                \ /
-*/
+// check PHP platform requirements
+if (PHP_VERSION_ID < 50306) {
+    die('Pico requires PHP 5.3.6 or above to run');
+}
+if (!extension_loaded('dom')) {
+    die('Pico requires the PHP extension "dom" to run');
+}
+if (!extension_loaded('mbstring')) {
+    die('Pico requires the PHP extension "mbstring" to run');
+}
 
-define('DS', DIRECTORY_SEPARATOR);
-define('ENV', getenv('APP_ENV'));
-define('VERSION', '0.12.3');
-define('MIGRATION_NUMBER', 220);
+// load dependencies
+require_once(__DIR__ . '/vendor/autoload.php');
 
-define('PATH', __DIR__ . DS);
-define('APP', PATH . 'anchor' . DS);
-define('SYS', PATH . 'system' . DS);
-define('EXT', '.php');
+// instance Pico
+$pico = new Pico(
+    __DIR__,    // root dir
+    'config/',  // config dir
+    'plugins/', // plugins dir
+    'themes/'   // themes dir
+);
 
-require APP . 'composer_check' . EXT;
-require SYS . 'start' . EXT;
+// run application
+echo $pico->run();
