@@ -16,15 +16,17 @@
  * @version 1.0
  */
 
-$config['site_title'] = 'lenilson.blog';
+$config['site_title'] = 'lenilsonjr';
 $config['theme'] = 'clean-blog'; 
 $config['pages_order_by'] = 'date';
 $config['pages_order'] = 'desc';
 $config['author'] = 'lenilsonjr';
+$config['author_url'] = 'https://lenilson.codes';
 $config['facebook'] = 'https://www.facebook.com/lenilsonjr.jr';
-$config['twitter'] = '@lenilsonjr'; 
+$config['twitter'] = '@lenilsonjr_'; 
 $config['pagination_limit'] = 6;
-
+$config['PicoFilePrefixes']['recursiveDirs'] = array('blog');
+$config['PicoFilePrefixes']['dirs'] = array();
 
 /*
  * BASIC
