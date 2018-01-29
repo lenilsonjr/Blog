@@ -30,3 +30,4 @@ So, in short, my masterplan is to have two or three online products giving enoug
 
 I'll be updating occasionally on the results and learnings from this journey, here and in my [twitter](https://twitter.com/lenilsonjr_).
 
+Feedback is appreciated.
