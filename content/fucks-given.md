@@ -1,7 +1,7 @@
 ---
 Title: "Fucks Given"
 Description: "Too many fucks given"
-Date: 07 Febuary 2018
+Date: 07 February 2018
 #Img: "/assets/img/posts/screenmug3.png"
 Template: post
 ---
