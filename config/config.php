@@ -27,7 +27,7 @@ $config['twitter'] = '@lenilsonjr_';
 $config['pagination_limit'] = 6;
 $config['PicoFilePrefixes']['recursiveDirs'] = array('blog');
 $config['PicoFilePrefixes']['dirs'] = array();
-$config['rewrite_url'] = true;
+$config['rewrite_url'] = false;
 
 /*
  * BASIC
