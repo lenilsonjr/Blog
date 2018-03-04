@@ -5,4 +5,4 @@ I usually use [Dillinger](https://dillinger.io/) or [VSCode](https://code.visual
 
 You can also read my posts at [lenilson.blog](https://lenilson.blog).
 
-You don't really need to clone this unless you want to do a data analysis on me.
+You don't really need to clone this unless you want to be me.
