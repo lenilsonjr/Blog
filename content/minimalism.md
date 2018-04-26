@@ -6,7 +6,7 @@ Img: "/assets/img/posts/bags_cover.jpg"
 Template: post
 ---
 
-Around 30 days ago I left my job in Recife with the goal to bootstrap a digital product while living off my savings and/or freelance jobs.
+Around 30 days ago I left my job in Recife with the goal of bootstrapping a digital product while living off my savings and/or freelance jobs.
 
 With this goal also came the desire (and the opportunity) to put into practice something I said I was gonna do a long time ago: minimalism.
 
@@ -18,15 +18,15 @@ I first heard of minimalism as a way of life trough my friend [Allan](https://tw
 
 I remember dismissing the idea after putting some thought in it.
 
-A few months later I had to search for an apartment near the campus (I was studying I.T. on a small town called [Belo Jardim]() at the moment).
+A few months later I had to search for an apartment near the campus (I was studying I.T. on a small town called [Belo Jardim](https://en.wikipedia.org/wiki/Belo_Jardim) at the moment).
 
-My worry wasn't finding a good place, but all the stuff I was going to need to buy or get from my family. Bedroom, all the kitchen stuff, etc.
+My worry wasn't about finding a good place, but rather all the stuff I was going to need to buy or get from my family. Bedroom, all the kitchen stuff, etc.
 
 Luckily, I found someone that was looking for a roommate. He and his previous roommate had basically furnished the entire place so I brought only my bed, a desk and a couch. Still, I had A LOT of small stuff. Those things that you bring in your life and can't remember why they're there.
 
-One year passed and I dropped out school and got back to my parents house. Luckily for me, my transition was very smooth since I hadn't a lot of furniture.
+One year passed and I dropped out school and got back to my parents house. Luckily for me, my transition was very smooth since I haven't a lot of furniture.
 
-At the time, me and [Allan](https://twitter.com/allancarlos_1) were working on a brand new startup and he moved to my hometown, renting a furnished room (literally, a bedroom with a bathroom and a desk that could be turned into a bed. There was like six rooms like these in the building and a common area with the kitchen. No, it wasn't a hostel).
+At the time, me and [Allan](https://twitter.com/allancarlos_1) were working on a brand new startup and he moved to my hometown, renting a furnished room (literally, a bedroom with a bathroom and a desk that could be turned into a bed. There was like six rooms like these in the building and a common area with a kitchen. No, it wasn't a hostel).
 
 He literally moved to another place and brought only one or two backpacks.
 
@@ -44,7 +44,7 @@ I created a Trello board to help us figure out what we need to buy, and every ti
 
 If you understand Portuguese, that's an interesting conversation to read about the need to buy a microwave:
 
-![/assets/img/posts/minimalism1.jpg](Trello discussion)
+![trello discussion](/assets/img/posts/minimalism1.jpg)
 
 In the end everything worked out because we found a furnished apartment. This time I didn't have to bring my bed or anything.
 
@@ -85,19 +85,19 @@ This includes:
 
 There was more, but I didn't count.
 
-![/assets/img/posts/minimalism2.jpg](Getting rid of stuff)
+![Getting rid of stuff](/assets/img/posts/minimalism2.jpg)
 
 I can't exactly describe the feeling. It's like someone is suffocating you for a long time, and you get used to it. But then, someday, it stops, and you can breath again.
 
 By the time I arrived in my hometown, this was everything I need:
 
-![/assets/img/posts/minimalism3.jpg](my stuff)
+![my stuff](/assets/img/posts/minimalism3.jpg)
 
 One backpack and a handbag. That's all.
 
 And, for fun, I completed an old desire: have a completely grey wardrobe:
 
-![/assets/img/posts/minimalism4.jpg](wardrobe)
+![wardrobe](/assets/img/posts/minimalism4.jpg)
 
 I still have useless stuff in my life, the small ones. Like the Arduino I bought and never used, but it's way less than it was two months ago.
 
