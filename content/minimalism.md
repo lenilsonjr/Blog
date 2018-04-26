@@ -34,9 +34,9 @@ To me, it was mind blowing. _"What the fuck? How does he live with a backpack?"_
 
 From that moment I started taking minimalism a bit more serious. First stop: [The Minimalists Podcast](https://www.theminimalists.com/).
 
-And, for my surprise, I discovered that minimalist is not just about physical stuff and clutter. It goes way deeper than that.
+And, for my surprise, I discovered that minimalism is not just about physical stuff and clutter. It goes way deeper than that.
 
-Fast forward one and a half year and there I was with Allan again. Our startup had failed almost one year earlier and we were about to start on new jobs in the big city, Recife.
+Fast forward one year and there I was with Allan again. Our startup had failed a  few months earlier and we were about to start on new jobs in the big city, Recife.
 
 First challenge: find an apartment.
 
@@ -54,7 +54,7 @@ And again, Allan brought one or two backpacks.
 
 We spent almost a year there.
 
-Then I decided that was time for me to move on. But this time I need to go lean.
+Then I decided that was time for me to move on. But this time I needed to go lean.
 
 # Why
 
@@ -72,7 +72,7 @@ I want to spend my money on experiences, not stuff.
 
 # Getting rid of stuff
 
-The first I did right before announcing my resignation was to get rid of A LOT of stuff.
+The first thing I did right before announcing my resignation was to get rid of A LOT of stuff.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I just got rid of 142 things in my apartment and the feeling is like breathing again after being underwater for some time</p>&mdash; Lenilson 🚀 (@lenilsonjr_) <a href="https://twitter.com/lenilsonjr_/status/972915006554755072?ref_src=twsrc%5Etfw">March 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -89,7 +89,7 @@ There was more, but I didn't count.
 
 I can't exactly describe the feeling. It's like someone is suffocating you for a long time, and you get used to it. But then, someday, it stops, and you can breath again.
 
-By the time I arrived in my hometown, this was everything I need:
+By the time I arrived in my hometown, this was everything I needed:
 
 ![my stuff](/assets/img/posts/minimalism3.jpg)
 
