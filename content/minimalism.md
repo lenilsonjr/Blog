@@ -24,7 +24,7 @@ My worry wasn't about finding a good place, but rather all the stuff I was going
 
 Luckily, I found someone that was looking for a roommate. He and his previous roommate had basically furnished the entire place so I brought only my bed, a desk and a couch. Still, I had A LOT of small stuff. Those things that you bring in your life and can't remember why they're there.
 
-One year passed and I dropped out school and got back to my parents house. Luckily for me, my transition was very smooth since I haven't a lot of furniture.
+One year passed and I dropped out of school and got back to my parents'. Luckily for me, my transition was very smooth since I hadn't a lot of furniture.
 
 At the time, me and [Allan](https://twitter.com/allancarlos_1) were working on a brand new startup and he moved to my hometown, renting a furnished room (literally, a bedroom with a bathroom and a desk that could be turned into a bed. There was like six rooms like these in the building and a common area with a kitchen. No, it wasn't a hostel).
 
@@ -32,7 +32,7 @@ He literally moved to another place and brought only one or two backpacks.
 
 To me, it was mind blowing. _"What the fuck? How does he live with a backpack?"_
 
-From that moment I started taking minimalism a bit more serious. First stop: [The Minimalists Podcast](https://www.theminimalists.com/).
+From that moment I started taking minimalism a bit more seriously. First stop: [The Minimalists Podcast](https://www.theminimalists.com/).
 
 And, for my surprise, I discovered that minimalism is not just about physical stuff and clutter. It goes way deeper than that.
 
@@ -40,7 +40,7 @@ Fast forward one year and there I was with Allan again. Our startup had failed a
 
 First challenge: find an apartment.
 
-I created a Trello board to help us figure out what we need to buy, and every time I added a card like "microwave" or "T.V." he would comment something like _**why the fuck we need that shit?**_
+I created a Trello board to help us figure out what we needed to buy, and every time I added a card like "microwave" or "T.V." he would comment something like _**why the fuck we need that shit?**_
 
 If you understand Portuguese, that's an interesting conversation to read about the need to buy a microwave:
 
