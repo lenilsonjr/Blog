@@ -1,3 +1,3 @@
 img { display: block; max-width: 100%; height: auto; }
-body, .post-subtitle, .subheading, .site-heading h1 { font-family: 'Inconsolata', monospace!important; }
-.post-title { font-family: 'Merriweather', serif!important; }
+body, .post-subtitle, .subheading, .site-heading h1, .post-heading .meta, .navbar-brand, .post-meta { font-family: 'Inconsolata', monospace!important; }
+.post-title, .post-heading h2 { font-family: 'Merriweather', serif!important; }

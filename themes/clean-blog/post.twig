@@ -69,7 +69,7 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <a class="navbar-brand" href="{{ base_url }}">Home</a>
+                <a class="navbar-brand" href="{{ base_url }}">home</a>
             </div>
 
             <!-- /.navbar-collapse -->
@@ -84,9 +84,8 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>{{ meta.title }}</h1>
-                        <h2 class="subheading">{{ meta.description }}</h2>
-                        <span class="meta">Posted by <a href="{{ config.author_url }}" target="_blank">{{ config.author }}</a> on {{ meta.date }}</span>
+                        <h2>{{ meta.title }}</h2>
+                        <p class="post-meta" style="margin: 0">{{ meta.date }}</p>
                     </div>
                 </div>
             </div>
@@ -142,7 +141,7 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted">Copyright &copy; {{ site_title }} 2016</p>
+                    <p class="copyright text-muted">Copyright &copy; {{ site_title }} 2018</p>
                 </div>
             </div>
         </div>
