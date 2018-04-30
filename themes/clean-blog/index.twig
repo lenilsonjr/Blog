@@ -48,6 +48,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather:400,700" rel="stylesheet">
 
   <!-- Emojis -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
@@ -78,14 +79,14 @@
 	{% endif %}
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3) ), {% if meta.img %} url({{ base_url ~ meta.img }}) {% else %} url('{{ theme_url }}/img/bg.jpg'){% endif %} no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+    <header class="intro-header" style="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3) ), {% if meta.img %} url({{ base_url ~ meta.img }}) {% else %} url('{{ theme_url }}/img/bg.jpg'){% endif %} no-repeat bottom; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>{{ site_title }} <span class="em em-rocket" style="font-size: 50px;"></span></h1>
+                        <h1>{{ site_title }}</h1>
                         <hr class="small">
-                        <span class="subheading">{{ meta.tagline }}</span>
+                        <span class="subheading">👋 Hello, I'm Lenilson 🚀 and this is my blog 📝<br />You can know more about me <a style="color: white; text-decoration: underline;" href="https://lenilson.now" target="_blank">here</a> 🙍‍♂️</span>
                     </div>
                 </div>
             </div>
