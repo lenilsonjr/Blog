@@ -20,20 +20,20 @@
 
   <title>{{ meta.title }} | blog - {{ site_title }}</title>
 	<!-- [ Social Media Meta Tags ] -->
-	<meta content='{{ meta.title }}' property='og:title'/>
+	<meta content="{{ meta.title }}" property='og:title'/>
 	<meta content='article' property='og:type'/>
 	<meta content='{{ config.facebook }}' property='article:publisher'/>
 	<meta content='{{ config.facebook }}' property='article:author'/>
 	<meta content='{{ current_page.url }}' property='og:url'/>
 	<meta content='{% if meta.img %}{{ base_url }}{{ meta.img }}{% else %}{{ theme_url }}/img/bg.jpg{% endif %}' property='og:image'/>
-	<meta content='{{ meta.description|striptags }}' property='og:description'/>
+	<meta content="{{ meta.description|striptags }}" property='og:description'/>
 	<meta content='{{ site_title }}' property='og:site_name'/>
 	<meta content='en_US' property='og:locale'/>
 	<meta content='summary_large_image' name='twitter:card'/>
 	<meta content='{{ meta.title }}' name='twitter:title'/>
 	<meta content='{{ config.twitter }}' name='twitter:site'/>
 	<meta content='{{ config.twitter }}' name='twitter:creator'/>
-	<meta content='{{ meta.description|striptags }}' name='twitter:description'/>
+	<meta content="{{ meta.description|striptags }}" name='twitter:description'/>
 	<meta content='{% if meta.img %}{{ base_url }}{{ meta.img }}{% else %}{{ theme_url }}/img/bg.jpg{% endif %}' name='twitter:image'/>
 
   <link rel="shortcut icon" href="{{ theme_url }}/img/favicon.png">
