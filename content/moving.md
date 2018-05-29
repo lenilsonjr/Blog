@@ -44,13 +44,13 @@ That's why I'm choosing to move, and that's all the stuff I'm taking for now:
 - 🎒 My big carry-on backpack
 - 💼 My small daily backpack _(that goes inside the carry-on bag)_
 
-![clothes](/assets/img/posts/100_thing.jpg)
+![tech stuff](/assets/img/posts/100_thing.jpg)
 
 That's 45 things. Well, actually there's more stuff inside my wallet and my bath kit, and also my packing cubes, but you get the point.
 
 This is how my backpack looks:
 
-![clothes](/assets/img/posts/100_thing_backpack.jpg)
+![backpack](/assets/img/posts/100_thing_backpack.jpg)
 
 Too hardcore? I don't know. Let's find out.
 
