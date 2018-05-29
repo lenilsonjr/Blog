@@ -10,7 +10,7 @@ Template: post
 
 Home is boring af. Really.
 
-One thing I noticed after two months in my hometown (one in a friend's couch and one at my parents') is that things get slow as fuck when you're comfortable.
+One thing I noticed after two months in my hometown (one on a friend's couch and one at my parents') is that things get slow as fuck when you're comfortable.
 
 I have networked quite a bit back home, but always with that weird feeling that I'm missing out on something for staying there.
 
