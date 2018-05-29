@@ -68,6 +68,6 @@ I like this unstable lifestyle because at least it is consistent with what I'm f
 
 My next destination after Petrolina depends on how good I can perform in the coming months. If I have enough money saved and/or enough MRR, I'll have the confidence to move. Maybe [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), maybe [Buenos Aires](https://en.wikipedia.org/wiki/Buenos_Aires), maybe [Santiago](https://en.wikipedia.org/wiki/Santiago), everything is possible.
 
-Actually, is more about _feeling secure_ to make such a move than about the money itself. I'm pretty sure I could sustain a minimal lifestyle in another country with my current network of contracts, but maybe it would be too much pain without savings or recurring income.
+Actually, it's more about _feeling secure_ to make such a move than about the money itself. I'm pretty sure I could sustain a minimal lifestyle in another country with my current network of contracts, but maybe it would be too much pain without savings or recurring income.
 
-I'll probably figure all this stuff out in six or eight months, so sit tight with me. It's going to be funnnnn.
+I'll probably figure out all this stuff in the next six or eight months, so sit tight with me. It's going to be funnnnn.
