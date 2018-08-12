@@ -80,10 +80,12 @@ In a functional and stable routine, this wound't be exactly a problem. I would p
 
 # So, what should I do?
 
-I should probably stop with the fast travel hype, and exchange places only every three months or so.
+I should probably stop with the fast travel hype, and change places only every three months or so.
 
 Also, taking care of my body is a nice idea and creating a effective routine for the day is a must.
 
 I dunno how I'm going to engineer these changes yet, but they must happen. Otherwise I'm pretty fucked.
+
+At this point, I should probably be working something like ten hours a day, sleeping eight hours and taking care of myself in the remaining time.
 
 That's it! Let's see if I'm less naive this time. If you have a book to recommend me on the subject *(discipline, focus, habits, routines, consistency)*, shout me a [tweet](https://twitter.com/lenilsonjr).
