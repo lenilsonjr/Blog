@@ -1,12 +1,12 @@
 ---
 Title: "I have a problem: lack of discipline"
-Description: "Today I'm going to talk about a nasty topic: my laziness"
+Description: "Ok, so today I'm going to talk about a nasty topic: my laziness."
 Date: 12 August 2018
 Img: "/assets/img/posts/habits_cover.jpg"
 Template: post
 ---
 
-Ok, I think it's important to write about bad stuff just as frequent as good stuff, and not just hide the mess, so today I'm going to talk about a nasty topic: my laziness.
+Ok, so today I'm going to talk about a nasty topic: my laziness.
 
 # What exactly is wrong
 
