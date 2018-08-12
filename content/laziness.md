@@ -88,4 +88,4 @@ I dunno how I'm going to engineer these changes yet, but they must happen. Other
 
 At this point, I should probably be working something like ten hours a day, sleeping eight hours and taking care of myself in the remaining time.
 
-That's it! Let's see if I'm less naive this time. If you have a book to recommend me on the subject *(discipline, focus, habits, routines, consistency)*, shout me a [tweet](https://twitter.com/lenilsonjr).
+That's it! Let's see if I'm less naive this time. If you have a book to recommend me on the subject *(discipline, focus, habits, routines, consistency)*, shout me a [tweet](https://twitter.com/lenilsonjr_).
